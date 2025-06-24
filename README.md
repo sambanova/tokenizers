@@ -14,4 +14,5 @@ This repo contains pre-loaded tokenizers files for the following models:
 - Meta-Llama-3.2-3B-Instruct
 - Mistral-7B-v0.3:
 - Mistral-7B-Instruct-v0.3
+- GPT2
 
