@@ -1,6 +1,6 @@
 # Tokenizers
 
-This repo contains pre-loaded tokenizers files for the following models:
+This repo contains pre-loaded tokenizers files from Hugging Face for the following models:
 
 - Meta-Llama-3-8B (with extended vocab)
 - Meta-Llama-3-8B-Instruct (with extended vocab)
